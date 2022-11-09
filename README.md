@@ -1,5 +1,5 @@
 
-This is my project of admission into Makers Fellowship - to create an NFT collection and deploy it on polygon network
+This is my project of admission into Makers Fellowship - to create an NFT collection and deploy it on polygon network. Some items were posted for sale and exhibition in opensea at https://opensea.io/collection/thestarrynights
 
 This project was based on the Brazilian flag - It's stars inside the blue circle represent each a state and have those positions following the stars position on the 15 of november, 1889, the day of proclamation of republic.
 
